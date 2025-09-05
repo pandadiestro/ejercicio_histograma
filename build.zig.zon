@@ -1,0 +1,11 @@
+.{
+    .name = .pra02_1,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.1",
+
+    .paths = .{
+        "main.zig",
+    },
+
+    .fingerprint = 0x2885759c82cd20bb,
+}
