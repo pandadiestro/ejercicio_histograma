@@ -10,7 +10,7 @@ un algoritmo de clasificación serial con uno paralelo.
 Antes de mostrar el código que se usó para el experimento, se mostrará una
 captura de los resultados obtenidos:
 
-![resultados obtenidos](./assets/captura_resultados.png)
+![resultados obtenidos](assets/captura_resultados.png)
 
 *El primer resultado fue realizado con un algoritmo puramente serial, el segundo
 con una paralela no optimizada y el tercero con una optimizada.*
